@@ -1,0 +1,3 @@
+﻿  Connect four.cpp
+E:\Connect four\Connect four\Connect four.cpp(122,1): warning C4715: 'CheckWinner': not all control paths return a value
+  Connect four.vcxproj -> E:\Connect four\x64\Debug\Connect four.exe
